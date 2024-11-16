@@ -3,10 +3,6 @@
 Convo-Fi is a real time chatting app, with video calling and AI chatbot features
 
 
-## Deployment
-
-The project is deployed at [https://chat-app-frontend-neon.vercel.app/](https://chat-app-frontend-neon.vercel.app/). Feel free to check it out and use it.
-
 ## System Design
 
 ![System Design](https://drive.google.com/uc?id=17FJgaDGE0Q-Ot4ygwJlY77foVQYce9lk)
@@ -27,10 +23,6 @@ In the project directory, move to Backend Directory and Install Dependencies and
 npm install
 npm start
 ```
-
-## Backend
-
-The backend for the app is deployed at [https://chat-app-mern-phi.vercel.app/](https://chat-app-mern-phi.vercel.app/)
 
 ## Authentication
 
